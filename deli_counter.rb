@@ -1,4 +1,4 @@
-$something += 1
+$something = "something"
 
 def line(other_deli)
    if other_deli.length > 0
