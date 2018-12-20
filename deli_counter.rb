@@ -17,7 +17,7 @@ def take_a_number(katz_deli)
 
   puts $something
   puts "Welcome, you are ticket number #{$something}. You are number #{katz_deli.length} in line."
-
+$something = $something + 1
 
 end
 
